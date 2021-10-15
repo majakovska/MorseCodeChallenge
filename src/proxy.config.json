@@ -1,0 +1,9 @@
+{
+    "/api/*": {
+        "target": "http://omega-morse-service.eu-central-1.elasticbeanstalk.com",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
+
+ 
